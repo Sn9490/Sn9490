@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**Sn9490/Sn9490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Guru Naveen Reddy 👋
 
-Here are some ideas to get you started:
+## Design Verification Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+B.Tech ECE graduate with hands-on experience in RTL and SoC Verification using SystemVerilog and UVM.
+
+### Skills
+- SystemVerilog
+- UVM
+- SVA
+- PCIe Gen2
+- AXI
+- APB
+- UART
+- Functional Coverage
+- Constrained Random Verification
+- RTL Verification
+
+### Tools
+- QuestaSim
+- ModelSim
+- Linux
+- Git
+
+### Projects
+- PCIe Gen2 SerDes Design & Verification
+- APB UVM Verification
+- UART Design & Verification
+
+### Currently
+🔍 Open to Design Verification Engineer Opportunities
+
+### Contact
+📧 gurunaveenreddys@gmail.com
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/siddu-guru-naveen-reddy-93b597282
+
+🔗 GitHub:
+https://github.com/Sn9490
+```
