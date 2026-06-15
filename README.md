@@ -3,12 +3,12 @@
 
 Design Verification Engineer with 11 months of hands-on experience in RTL/IP Verification using SystemVerilog, UVM, and SVA.
 
-🔹 Skilled in UVM Testbench Development
-🔹 Functional Coverage & Code Coverage
+🔹 UVM Testbench Development
 🔹 Constrained Random Verification
 🔹 Assertion Based Verification (SVA)
-🔹 PCIe Gen2, APB, UART Protocol Verification
-🔹 Regression Debugging & Root Cause Analysis
+🔹 Functional Coverage & Coverage Closure
+🔹 Scoreboarding & Data Integrity Checks
+🔹 PCIe, APB and UART Protocol Verification
 
 ## Technical Skills
 
@@ -22,13 +22,15 @@ Design Verification Engineer with 11 months of hands-on experience in RTL/IP Ver
 - Assertion Based Verification (SVA)
 - Functional Coverage
 - Coverage Driven Verification
+- Scoreboarding
+- Protocol Verification
 
 
 ### Projects
 - PCIe Gen2 SerDes Design & Verification
 - APB UVM Verification
 - UART Design & Verification
-- AXI RTL Design Verification
+- AXI RTL Design
 - 4X1 MUX Design & Verification
 - SRAM RTL design Verification
 
