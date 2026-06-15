@@ -1,34 +1,43 @@
 
 # Hi, I'm Guru Naveen Reddy 👋
 
-## Design Verification Engineer
+Design Verification Engineer with 11 months of hands-on experience in RTL/IP Verification using SystemVerilog, UVM, and SVA.
 
-### About Me
-B.Tech ECE graduate with hands-on experience in RTL and SoC Verification using SystemVerilog and UVM.
+🔹 Skilled in UVM Testbench Development
+🔹 Functional Coverage & Code Coverage
+🔹 Constrained Random Verification
+🔹 Assertion Based Verification (SVA)
+🔹 PCIe Gen2, APB, UART Protocol Verification
+🔹 Regression Debugging & Root Cause Analysis
 
-### Skills
+## Technical Skills
+
+### Languages
+- Verilog
 - SystemVerilog
+
+### Verification Methodologies
 - UVM
-- SVA
-- PCIe Gen2
-- AXI
-- APB
-- UART
-- Functional Coverage
 - Constrained Random Verification
-- RTL Verification
+- Assertion Based Verification (SVA)
+- Functional Coverage
+- Coverage Driven Verification
+
+
+### Projects
+- PCIe Gen2 SerDes Design & Verification
+- APB UVM Verification
+- UART Design & Verification
+- AXI RTL Design Verification
+- 4X1 MUX Design & Verification
+- SRAM RTL design Verification
 
 ### Tools
 - QuestaSim
 - ModelSim
 - Linux
 - Git
-
-### Projects
-- PCIe Gen2 SerDes Design & Verification
-- APB UVM Verification
-- UART Design & Verification
-
+ 
 ### Currently
 🔍 Open to Design Verification Engineer Opportunities
 
